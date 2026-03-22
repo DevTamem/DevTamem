@@ -28,14 +28,6 @@ I'm a **19-year-old Software Engineering student**. I spend my time building web
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevTamem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTamem&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
-
----
-
 <p align="center">
   <i>Check out my bio for social links and ways to connect!</i>
 </p>
