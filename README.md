@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4d/91/a7/4d91a75893e41de65b9df1eb2d870c61.jpg" width="400" style="border-radius: 20px;" />
+  <img src="https://i.pinimg.com/736x/4d/91/a7/4d91a75893e41de65b9df1eb2d870c61.jpg" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Tamem! 👋</h1>
