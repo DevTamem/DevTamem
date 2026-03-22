@@ -22,7 +22,7 @@ I'm a **19-year-old Software Engineering student**. I spend my time building web
 ### 🛠 My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,git,github,npm,openai,bots" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,git,github,npm" />
   </a>
 </p>
 
