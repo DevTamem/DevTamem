@@ -12,7 +12,7 @@
 I'm a **19-year-old Software Engineering student**. I spend my time building web applications and exploring the modern JavaScript ecosystem.
 
 - 🔭 **Current Focus:** Working on a side project & mastering full-stack architectures.
-- 🌱 **Learning:** Deepening my knowledge in **Next.js**, **Backend Systems**, and **AI Implementation**.
+- 🌱 **Learning:** **Learning PostgreSQL** and Deepening my knowledge in **Next.js**, **Backend Systems**, and **AI Implementation**.
 - 🤖 **AI Journey:** Learning how to leverage LLMs for coding efficiency and integrating AI APIs into my projects.
 - 🎓 **Education:** Software Engineering Student.
 - ⚡ **Fun Fact:** I'm probably debugging something right now.
